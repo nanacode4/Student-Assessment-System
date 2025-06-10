@@ -2,7 +2,6 @@
 
 This is a web-based student assessment management system developed using Java Servlet, JSP, and JDBC. The system enables admins and teachers to manage users, courses, and student assessment records such as quizzes, assignments, and final exams.
 
-## 📁 Project Structure
 
 
 ## ✨ Features
